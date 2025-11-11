@@ -1,4 +1,5 @@
 ---
+title: 首頁
 icon: lucide/rocket
 ---
 
@@ -16,13 +17,13 @@ icon: lucide/rocket
 
 將在各裝置（電腦、手機、平板）上透過 VPN 連線記錄網路流量，並以封包檢測方式觀察是否出現異常流量。檢測預計連續進行 72 小時，涵蓋每日 24 小時的時段。[了解更多 :lucide-square-arrow-out-up-right:](./index.md)
 
-## 緊急通報機制
+## :lucide-headset: 緊急通報機制
 
 ### 資安事件通報與分析
 
 提供釣魚郵件及各類疑似資安事件的通報服務。遇到可疑郵件或異常情況時，可提交資訊以獲得快速判斷與處理建議。[了解更多 :lucide-square-arrow-out-up-right:](./index.md)
 
-## 培訓資源
+## :lucide-book-open-text: 培訓資源
 
 ### CSCS 社群與資安課程
 
