@@ -52,9 +52,9 @@ docs_dir = "zh-tw"
 # ]
 nav = [
     {"培訓資源" = [
-        "material/cscs.md",
-        "material/digitalsecurityhandbook.md",
         "material/ssd.md",
+        "material/digitalsecurityhandbook.md",
+        "material/cscs.md",
         "material/privacy-guides.md",
     ]},
     {"網路安全保護" = [
