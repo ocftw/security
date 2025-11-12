@@ -51,6 +51,12 @@ docs_dir = "zh-tw"
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
 nav = [
+    {"培訓資源" = [
+        "material/cscs.md",
+        "material/digitalsecurityhandbook.md",
+        "material/ssd.md",
+        "material/privacy-guides.md",
+    ]},
     {"網路安全保護" = [
         "network/cloudflare.md",
         "network/helix.md"
@@ -58,9 +64,6 @@ nav = [
     {"緊急通報機制" = [
         "help-desk/help-desk.md"
     ]},
-    {"培訓資源" = [
-        "material/cscs.md"
-    ]}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
