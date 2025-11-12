@@ -34,7 +34,7 @@ site_url = "https://security.ocf.tw/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-CC-BY 4.0 姓名標示 | 財團法人開放文化基金會 (Open Culture Foundation, OCF) 
+CC-BY 4.0 姓名標示 | 財團法人開放文化基金會 (Open Culture Foundation, OCF)
 """
 
 docs_dir = "zh-tw"
@@ -325,3 +325,7 @@ alternate = [
     { name = "English（en-us）", link = "/en/", lang = "en" },
     { name = "正體中文（zh-TW）", link = "/", lang = "zh-TW" }
 ]
+
+[project.extra.analytics]
+provider = "google"
+property = "G-CFKVL29PQR"
