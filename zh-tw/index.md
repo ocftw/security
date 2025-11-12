@@ -1,5 +1,5 @@
 ---
-title: 首頁
+title: 資源、服務一覽
 icon: lucide/rocket
 ---
 
