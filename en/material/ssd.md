@@ -1,5 +1,6 @@
 ---
 title: Shield of Self-Defense (SSD)
+description: A digital security capacity-building toolkit for human rights workers, based on the findings of the report on the digital threat landscape by Taiwanese human rights and democracy advocacy groups.
 icon: lucide/brick-wall-shield
 ---
 
