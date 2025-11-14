@@ -9,17 +9,17 @@ icon: lucide/rocket
 
 ## :lucide-book-open-text: 培訓資源
 
-### :lucide-users: CSCS 社群與資安課程
+### :lucide-brick-wall-shield: 資安防護基礎教材
 
-CSCS 社群協助缺乏技術資源的公民團體，進行以下三種類型的支援：（1）資安培訓、（2）設備健檢、（3）資安事件諮詢。[了解更多 :lucide-square-arrow-out-up-right:](./material/cscs.md)
+根據台灣人權與民主倡議團體數位威脅概況報告成果，為人權工作者設計的數位安全培力工具包。[了解更多 :lucide-square-arrow-out-up-right:](./material/ssd.md)
 
 ### :lucide-book-text: CSOs 數位防禦手冊
 
 專為台灣公民團體設計的資訊安全概念指南，全書共分為五個章節，對應日常工作中最常使用的數位操作情境，協助讀者快速掌握實務必備的資安觀念。[了解更多 :lucide-square-arrow-out-up-right:](./material/digitalsecurityhandbook.md)
 
-### :lucide-brick-wall-shield: 資安防護基礎教材
+### :lucide-users: CSCS 社群與資安課程
 
-根據台灣人權與民主倡議團體數位威脅概況報告成果，為人權工作者設計的數位安全培力工具包。[了解更多 :lucide-square-arrow-out-up-right:](./material/ssd.md)
+CSCS 社群協助缺乏技術資源的公民團體，進行以下三種類型的支援：（1）資安培訓、（2）設備健檢、（3）資安事件諮詢。[了解更多 :lucide-square-arrow-out-up-right:](./material/cscs.md)
 
 ### :lucide-hat-glasses: Privacy Guides
 
