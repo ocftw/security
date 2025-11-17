@@ -24,6 +24,7 @@ jobs:
       - run: |
           uv run zensical build --clean
           uv run zensical build -f ./en-zensical.toml
+          echo 'security.ocf.tw' > ./site/CNAME
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
