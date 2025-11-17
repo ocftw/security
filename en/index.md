@@ -33,9 +33,9 @@ A community-translated and maintained website of security and privacy tools. [Mo
 
 Provides cybersecurity protection for websites run by organizations engaged in human rights, civil society, journalism, or democracy-related work, effectively reducing the risk of malicious traffic attacks. [More details :lucide-square-arrow-out-up-right:](./network/cloudflare.md)
 
-### :lucide-smartphone-charging: Helix Malicious Traffic Monitoring
+### :lucide-smartphone-charging: Malicious Traffic Monitoring
 
-Network traffic on each device (computer, smartphone, tablet) will be logged via a VPN connection, and packet inspection will be used to detect any anomalous traffic. Monitoring is expected to run continuously for 72 hours, operating 24/7. [More details :lucide-square-arrow-out-up-right:](./network/helix.md)
+Network traffic on each device (computer, smartphone, tablet) will be logged via a VPN connection, and packet inspection will be used to detect any anomalous traffic. Monitoring is expected to run continuously for 72 hours, operating 24/7. [More details :lucide-square-arrow-out-up-right:](./network/malicious-traffic.md)
 
 ---
 

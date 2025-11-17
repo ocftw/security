@@ -33,9 +33,9 @@ CSCS 社群協助缺乏技術資源的公民團體，進行以下三種類型的
 
 為從事人權、公民社會、新聞或民主相關工作的組織所經營的網站提供網路安全防護，有效降低惡意流量攻擊的風險。[了解更多 :lucide-square-arrow-out-up-right:](./network/cloudflare.md)
 
-### :lucide-smartphone-charging: Helix 惡意流量監測
+### :lucide-smartphone-charging: 惡意流量監測
 
-將在各裝置（電腦、手機、平板）上透過 VPN 連線記錄網路流量，並以封包檢測方式觀察是否出現異常流量。檢測預計連續進行 72 小時，涵蓋每日 24 小時的時段。[了解更多 :lucide-square-arrow-out-up-right:](./network/helix.md)
+將在各裝置（電腦、手機、平板）上透過 VPN 連線記錄網路流量，並以封包檢測方式觀察是否出現異常流量。檢測預計連續進行 72 小時，涵蓋每日 24 小時的時段。[了解更多 :lucide-square-arrow-out-up-right:](./network/malicious-traffic.md)
 
 ---
 

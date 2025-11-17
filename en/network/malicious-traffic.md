@@ -1,13 +1,13 @@
 ---
-title: Helix Malicious Traffic Monitoring
+title: Malicious Traffic Monitoring
 icon: lucide/smartphone-charging
 ---
 
-# :lucide-smartphone-charging: Helix Malicious Traffic Monitoring
+# :lucide-smartphone-charging: Malicious Traffic Monitoring
 
 Taiwan’s unique geopolitical position has subjected it to persistent cyberattacks and threats. Civil society groups on the front lines of defending democracy and freedom are no exception. How can we help civic and advocacy organizations enhance their cybersecurity awareness and basic defensive capabilities?
 
-Helix is a service designed specifically for civic groups to raise cybersecurity awareness. By routing devices through a VPN connection for 72 hours and inspecting network traffic for anomalies or malicious activity, it provides a comprehensive device traffic analysis report.
+This is a service designed specifically for civic groups to raise cybersecurity awareness. By routing devices through a VPN connection for 72 hours and inspecting network traffic for anomalies or malicious activity, it provides a comprehensive device traffic analysis report.
 
 ## Who it’s for
 

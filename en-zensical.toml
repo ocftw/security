@@ -60,7 +60,7 @@ nav = [
     ]},
     {"Cybersecurity Protection" = [
         "network/cloudflare.md",
-        "network/helix.md"
+        "network/malicious-traffic.md"
     ]},
     {"Emergency Reporting" = [
         "help-desk/help-desk.md"

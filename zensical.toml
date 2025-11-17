@@ -59,7 +59,7 @@ nav = [
     ]},
     {"網路安全保護" = [
         "network/cloudflare.md",
-        "network/helix.md"
+        "network/malicious-traffic.md"
     ]},
     {"緊急通報機制" = [
         "help-desk/help-desk.md"
