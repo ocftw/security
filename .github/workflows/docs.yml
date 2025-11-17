@@ -23,6 +23,7 @@ jobs:
           enable-cache: true
       - run: |
           uv run zensical build --clean
+          uv run zensical build -f ./en-zensical.toml
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
