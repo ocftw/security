@@ -62,6 +62,9 @@ nav = [
         "network/cloudflare.md",
         "network/malicious-traffic.md"
     ]},
+    {"Research Report" = [
+        "report/mapping-hrds.md"
+    ]},
     {"Emergency Reporting" = [
         "help-desk/help-desk.md"
     ]},

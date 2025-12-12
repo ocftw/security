@@ -61,6 +61,9 @@ nav = [
         "network/cloudflare.md",
         "network/malicious-traffic.md"
     ]},
+    {"研究報告" = [
+        "report/mapping-hrds.md"
+    ]},
     {"緊急通報機制" = [
         "help-desk/help-desk.md"
     ]},
