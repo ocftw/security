@@ -63,7 +63,8 @@ nav = [
         "network/malicious-traffic.md"
     ]},
     {"Research Report" = [
-        "report/mapping-hrds.md"
+        "report/mapping-hrds.md",
+        "report/otg.md",
     ]},
     {"Emergency Reporting" = [
         "help-desk/help-desk.md"
