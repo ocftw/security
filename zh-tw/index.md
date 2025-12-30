@@ -39,6 +39,18 @@ CSCS 社群協助缺乏技術資源的公民團體，進行以下三種類型的
 
 ---
 
+## :lucide-notebook-pen: 研究報告
+
+### :lucide-file-text: 人權與民主倡議工作者的數位安全
+
+本計畫以問卷（35 個組織、行動者）與深度訪談（3 名高風險人權工作者）勾勒在台人權工作者的數位安全現況，並尋找降低數位威脅的整體方案，後續產出一份報告與工具包。[了解更多 :lucide-square-arrow-out-up-right:](./report/mapping-hrds.md)
+
+### :lucide-warehouse: Open Tech Garage｜開放科技車庫
+
+Open Tech Garage（開放科技車庫）是一個由 OCF 與 WPI IQP 計畫共同推動、並獲 APC 支持的開源軟體評測專案，透過兼具學術嚴謹與實務測試的方式，提供以資訊安全與隱私為核心的透明工具評估，協助不同技術背景的使用者做出合適選擇。[了解更多 :lucide-square-arrow-out-up-right:](./report/otg.md)
+
+---
+
 ## :lucide-headset: 緊急通報機制
 
 ### :lucide-headset: 資安事件通報與分析

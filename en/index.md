@@ -39,6 +39,18 @@ Network traffic on each device (computer, smartphone, tablet) will be logged via
 
 ---
 
+## :lucide-notebook-pen: Research Report
+
+### :lucide-file-text: **Digital Security for Human Rights and Democracy Advocates**
+
+This project uses surveys (35 organizations and activists) and in-depth interviews (3 high-risk human rights defenders) to map the current state of digital security among human rights workers in Taiwan and to identify comprehensive approaches to reducing digital threats. The project produces a report and a practical toolkit. [Learn more :lucide-square-arrow-out-up-right:](./report/mapping-hrds.md)
+
+### :lucide-warehouse: **Open Tech Garage**
+
+**Open Tech Garage** is an open-source software evaluation project jointly initiated by the **Open Culture Foundation (OCF)** and the **WPI Interactive Qualifying Project (IQP)** program, with support from **APC**. By combining academic rigor with hands-on testing, the project provides transparent, security- and privacy-focused tool evaluations to help users with diverse technical backgrounds make informed choices. [Learn more :lucide-square-arrow-out-up-right:](./report/otg.md)
+
+---
+
 ## :lucide-headset: Emergency Reporting
 
 ### :lucide-headset: Incident Reporting and Analysis
