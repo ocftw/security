@@ -29,7 +29,7 @@ jobs:
         run: |
           uv run zensical build --clean
           uv run zensical build -f ./en-zensical.toml
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: site
           path: site
