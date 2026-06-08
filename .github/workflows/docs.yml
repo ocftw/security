@@ -3,10 +3,17 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   deploy:
     environment:
@@ -14,18 +21,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/configure-pages@v5
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - uses: astral-sh/setup-uv@v6
+      - uses: actions/configure-pages@v6
+      - uses: astral-sh/setup-uv@v8
         with:
           enable-cache: true
       - run: |
           uv run zensical build --clean
           uv run zensical build -f ./en-zensical.toml
           echo 'security.ocf.tw' > ./site/CNAME
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
-      - uses: actions/deploy-pages@v4
+      - id: deployment
+        uses: actions/deploy-pages@v5
